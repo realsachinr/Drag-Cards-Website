@@ -9,9 +9,14 @@
 To install the necessary Node modules, you can use the npm command npm i in your project directory. This command will read the package.json file in your project and install all the dependencies listed there. Here's how you can do it:
 
 Open your terminal or command prompt.
+
 Navigate to the root directory of your project.
+
 Run the command npm i or npm install.
+
 Wait for npm to download and install all the required modules.
+
 and then Run the Command "npm run dev"
+
 Once the installation is complete, you'll have all the necessary Node modules installed in your project directory, including React.js, Vite, and any other dependencies specified in your package.json file.
 
